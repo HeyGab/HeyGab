@@ -3,9 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gabriel+Silva;I'm+20+years+old;I'm+from+Brazil;I+study+Systems+Analysis+and+Development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HeyGab&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyGab&layout=compact&hide_border=true&title_color=4B0082&text_color=C0C0C0&bg_color=0d1117" />
+  
+![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=HeyGab&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=4B0082&text_color=a4aacb&icon_color=4B0082)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyGab&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=4B0082&text_color=a4aacb&icon_color=a4aacb)
 </div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HeyGab&bg_color=000000&color=4b0082&line=c91dbd&point=6c03a5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -31,6 +33,9 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HeyGab}/count.svg" /></p> 
 <br>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21nslchzvpqaqe7qupufnds3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=33c150&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21nslchzvpqaqe7qupufnds3q&redirect=true)
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
