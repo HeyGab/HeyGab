@@ -32,8 +32,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HeyGab}/count.svg" /></p> 
 <br>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21nslchzvpqaqe7qupufnds3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=33c150&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21nslchzvpqaqe7qupufnds3q&redirect=true)
-</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
